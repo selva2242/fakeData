@@ -1,0 +1,142 @@
+[
+    {
+        "id" : 1,
+        "name" : "A",
+        "area" : "B",
+        "capital" : "F",
+        "subregion" : 123
+    },
+    {
+        "id" : 2,
+        "name" : "S",
+        "area" : "C",
+        "capital" : "D",
+        "subregion" : 123
+    },
+    {
+        "id" : 3,
+        "name" : "M",
+        "area" : "D",
+        "capital" : "S",
+        "subregion" : 123
+    },
+    {
+        "id" : 4,
+        "name" : "D",
+        "area" : "E",
+        "capital" : "F",
+        "subregion" : 123
+    },
+    {
+        "id" : 5,
+        "name" : "Q",
+        "area" : "H",
+        "capital" : "I",
+        "subregion" : 123
+    },
+    {
+        "id" : 6,
+        "name" : "G",
+        "area" : "X",
+        "capital" : "N",
+        "subregion" : 123
+    },
+    {
+        "id" : 7,
+        "name" : "N",
+        "area" : "Z",
+        "capital" : "M",
+        "subregion" : 123
+    },
+    {
+        "id" : 8,
+        "name" : "P",
+        "area" : "L",
+        "capital" : "J",
+        "subregion" : 123
+    },
+    {
+        "id" : 9,
+        "name" : "C",
+        "area" : "T",
+        "capital" : "W",
+        "subregion" : 123
+    },
+    {
+        "id" : 10,
+        "name" : "N",
+        "area" : "O",
+        "capital" : "S",
+        "subregion" : 123
+    },
+    {
+        "id" : 11,
+        "name" : "E",
+        "area" : "K",
+        "capital" : "S",
+        "subregion" : 123
+    },
+    {
+        "id" : 12,
+        "name" : "G",
+        "area" : "X",
+        "capital" : "Y",
+        "subregion" : 123
+    },
+    {
+        "id" : 13,
+        "name" : "L",
+        "area" : "K",
+        "capital" : "O",
+        "subregion" : 123
+    },
+    {
+        "id" : 14,
+        "name" : "O",
+        "area" : "A",
+        "capital" : "2",
+        "subregion" : 123
+    },
+    {
+        "id" : 15,
+        "name" : "A",
+        "area" : "G",
+        "capital" : "F",
+        "subregion" : 123
+    },
+    {
+        "id" : 16,
+        "name" : "V",
+        "area" : "M",
+        "capital" : "N",
+        "subregion" : 123
+    },
+    {
+        "id" : 17,
+        "name" : "L",
+        "area" : "O",
+        "capital" : "Q",
+        "subregion" : 123
+    },
+    {
+        "id" : 18,
+        "name" : "Z",
+        "area" : "L",
+        "capital" : "P",
+        "subregion" : 123
+    },
+    {
+        "id" : 19,
+        "name" : "K",
+        "area" : "D",
+        "capital" : "F",
+        "subregion" : 123
+    },
+    {
+        "id" : 20,
+        "name" : "G",
+        "area" : "H",
+        "capital" : "R",
+        "subregion" : 123
+    }
+]
